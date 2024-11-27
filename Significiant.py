@@ -1,4 +1,3 @@
-!pip install folium
 import pandas as pd
 import matplotlib.pyplot as plt
 import folium
